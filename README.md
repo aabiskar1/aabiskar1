@@ -33,4 +33,5 @@ Here are some ideas to get you started:
 
 [instagram]: https://www.instagram.com/aabiskar1/
 [linkedin]: https://www.linkedin.com/in/aabiskar/
-[facebook]: https://www.facebook.com/aabiskar1
+[facebook]: https://www.facebook.com/aabiskar1/
+[web]: https://www.aabiskar.com/
