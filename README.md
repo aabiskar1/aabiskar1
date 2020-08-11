@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=aabiskar1&show_icons=true&hide_border=true" />
 
 [instagram]: https://www.instagram.com/aabiskar1/
 [linkedin]: https://www.linkedin.com/in/aabiskar/
