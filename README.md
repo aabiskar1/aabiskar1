@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 <img align="left" alt="web" width="22px" src="https://cdn.onlinewebfonts.com/svg/img_572649.png" />[Bina Restaurant]  <br> <br>
 <img align="left" alt="web" width="22px" src="https://cdn.onlinewebfonts.com/svg/img_572649.png" />[GarageInc Web]
 
-<br>
-<br>
+<br />
+<br />
 ### Languages and Tools:
 
 <img align="left" alt="git" width="26px" src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" />
