@@ -46,6 +46,8 @@ Here are some ideas to get you started:
 <img align="left" alt="git" width="26px" src="https://cdn.worldvectorlogo.com/logos/java-4.svg" />
 <img align="left" alt="flutter" width="26px" src="https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png" />
 <img align="left" alt="git" width="26px" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" />
+<img align="left" alt="git" width="26px" src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" />
+<img align="left" alt="git" width="26px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
 <img align="left" alt="node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="sql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="mysql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
