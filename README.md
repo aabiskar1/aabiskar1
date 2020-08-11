@@ -32,6 +32,16 @@ Here are some ideas to get you started:
 -->
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=aabiskar1&show_icons=true&hide_border=true" />
 
+
+
+### Some of my work:
+<img align="left" alt="web" width="22px" src="https://cdn.onlinewebfonts.com/svg/img_572649.png" />[Bina Restaurant]  <br>
+<img align="left" alt="web" width="22px" src="https://cdn.onlinewebfonts.com/svg/img_572649.png" />[GarageInc Web]<br>
+<img align="left" alt="web" width="22px" src="https://cdn.onlinewebfonts.com/svg/img_572649.png" />[GarageInc App]
+
+
+
+
 [instagram]: https://www.instagram.com/aabiskar1/
 [linkedin]: https://www.linkedin.com/in/aabiskar/
 [facebook]: https://www.facebook.com/aabiskar1/
@@ -39,8 +49,3 @@ Here are some ideas to get you started:
 [Bina Restaurant]: https://www.binacurry.co.kr/
 [GarageInc Web]: https://www.garageinc.com.np/
 [GarageInc App]: https://play.google.com/store/apps/details?id=np.com.garageinc/
-
-### Some of my work:
-<img align="left" alt="web" width="22px" src="https://cdn.onlinewebfonts.com/svg/img_572649.png" />[Bina Restaurant]
-<img align="left" alt="web" width="22px" src="https://cdn.onlinewebfonts.com/svg/img_572649.png" />[GarageInc Web]
-<img align="left" alt="web" width="22px" src="https://cdn.onlinewebfonts.com/svg/img_572649.png" />[GarageInc App]
