@@ -51,6 +51,7 @@ Here are some ideas to get you started:
 <img align="left" alt="git" width="26px" src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" />
 <img align="left" alt="git" width="26px" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" />
 <img align="left" alt="git" width="26px" src="https://cdn.worldvectorlogo.com/logos/javascript-4.svg" />
+<img align="left" alt="git" width="26px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
 <img align="left" alt="git" width="26px" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" />
 <img align="left" alt="git" width="26px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
 <img align="left" alt="node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
@@ -67,7 +68,7 @@ Here are some ideas to get you started:
 [instagram]: https://www.instagram.com/aabiskar1/
 [linkedin]: https://www.linkedin.com/in/aabiskar/
 [facebook]: https://www.facebook.com/aabiskar1/
-[Website]: https://www.aabiskar.com/
-[Bina Restaurant]: https://www.binacurry.co.kr/
+[Website]: https://aabiskar.com/
+[Bina Restaurant]: https://binacurry.co.kr/
 [GarageInc Web]: https://www.garageinc.com.np/
 [GarageInc App]: https://play.google.com/store/apps/details?id=np.com.garageinc/
