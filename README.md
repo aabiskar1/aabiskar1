@@ -1,5 +1,5 @@
 ### Hi there, Its Aabiskar 👋
-#### [website]
+#### [Website]
 
 ## I'm a Developer
 
@@ -8,7 +8,7 @@
 - 😄 This year Goals: Learning and learning
 
 ### Connect with me:
-[<img align="left" alt="web | Facebook" width="22px" src="https://cdn.onlinewebfonts.com/svg/img_572649.png" />][website]
+[<img align="left" alt="web | Facebook" width="22px" src="https://cdn.onlinewebfonts.com/svg/img_572649.png" />][Website]
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="facebook | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 [instagram]: https://www.instagram.com/aabiskar1/
 [linkedin]: https://www.linkedin.com/in/aabiskar/
 [facebook]: https://www.facebook.com/aabiskar1/
-[website]: https://www.aabiskar.com/
+[Website]: https://www.aabiskar.com/
