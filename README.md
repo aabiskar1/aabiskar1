@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi there, Its Aabiskar 👋
+
+## I'm a Developer
+
+- 🔭 I’m currently working as a mobile app and web developer
+- 👯 I’m available for freelance work
+- 😄 This year Goals: Learning and learning
+
+### Connect with me:
+
+[<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="facebook | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+
 
 <!--
 **aabiskar1/aabiskar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +27,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[instagram]: https://www.instagram.com/aabiskar1/
+[linkedin]: https://www.linkedin.com/in/aabiskar/
+[facebook]: https://www.facebook.com/aabiskar1
