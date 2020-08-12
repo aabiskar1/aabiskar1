@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 
 ### Some of my work:
-<img align="left" alt="web" width="22px" src="https://cdn.worldvectorlogo.com/logos/google-play-store.svg" />[GarageInc App] <br> <br>
+<img align="left" alt="web" width="22px" src="https://cdn.worldvectorlogo.com/logos/google-play-store.svg" /> [GarageInc App] <br> <br>
 <img align="left" alt="web" width="22px" src="https://cdn.onlinewebfonts.com/svg/img_572649.png" />[Bina Restaurant]  <br> <br>
 <img align="left" alt="web" width="22px" src="https://cdn.onlinewebfonts.com/svg/img_572649.png" />[GarageInc Web]
 
@@ -69,6 +69,6 @@ Here are some ideas to get you started:
 [linkedin]: https://www.linkedin.com/in/aabiskar/
 [facebook]: https://www.facebook.com/aabiskar1/
 [Website]: https://aabiskar.com/
-[Bina Restaurant]: https://binacurry.co.kr/
+[Bina Restaurant]: https://www.binacurry.co.kr/
 [GarageInc Web]: https://www.garageinc.com.np/
-[GarageInc App]: https://play.google.com/store/apps/details?id=np.com.garageinc/
+[GarageInc App]: https://play.google.com/store/apps/details?id=np.com.garageinc
