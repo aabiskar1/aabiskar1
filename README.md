@@ -1,7 +1,7 @@
 ### Hi there, Its Aabiskar 👋
 #### <img align="left" alt="web" width="22px" src="https://cdn.onlinewebfonts.com/svg/img_572649.png" />[Website]
 
-## I'm a Developer
+## I'm a Software Developer
 
 - 🔭 I’m currently working as a mobile app and web developer
 - 👯 I’m available for freelance work
