@@ -1,5 +1,5 @@
 ### Hi there, Its Aabiskar 👋
-#### <img align="left" alt="web" width="22px" src="https://cdn.onlinewebfonts.com/svg/img_572649.png" />[Website]
+#### <img align="left" disabled="disabled" alt="web" width="22px" src="https://cdn.onlinewebfonts.com/svg/img_572649.png" />[Website]
 
 ## I'm a Software Developer
 
@@ -43,12 +43,12 @@ Here are some ideas to get you started:
 <br />
 
 ### Languages and Tools:
-
 <img align="left" alt="git" width="26px" src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" />
 <img align="left" alt="git" width="26px" src="https://cdn.worldvectorlogo.com/logos/java-4.svg" />
 <img align="left" alt="flutter" width="26px" src="https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png" />
 <img align="left" alt="git" width="26px" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" />
 <img align="left" alt="git" width="26px" src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" />
+<img align="left" alt="git" width="26px" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" />
 <img align="left" alt="git" width="26px" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" />
 <img align="left" alt="git" width="26px" src="https://cdn.worldvectorlogo.com/logos/javascript-4.svg" />
 <img align="left" alt="git" width="26px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
