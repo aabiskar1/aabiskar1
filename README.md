@@ -72,3 +72,6 @@ Here are some ideas to get you started:
 [Bina Restaurant]: https://www.binacurry.co.kr/
 [GarageInc Web]: https://www.garageinc.com.np/
 [GarageInc App]: https://play.google.com/store/apps/details?id=np.com.garageinc
+
+![](https://visitor-badge.glitch.me/badge?page_id=aabiskar1)
+
