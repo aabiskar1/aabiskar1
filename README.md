@@ -73,5 +73,6 @@ Here are some ideas to get you started:
 [GarageInc Web]: https://www.garageinc.com.np/
 [GarageInc App]: https://play.google.com/store/apps/details?id=np.com.garageinc
 
+<br />
 ![](https://visitor-badge.glitch.me/badge?page_id=aabiskar1)
 
