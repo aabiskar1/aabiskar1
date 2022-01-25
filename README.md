@@ -1,5 +1,4 @@
 ### Hi there, Its Aabiskar 👋
-#### <img align="left" disabled="disabled" alt="web" width="22px" src="https://cdn.onlinewebfonts.com/svg/img_572649.png" />[Website]
 
 ## I'm a Software Developer
 
@@ -8,7 +7,6 @@
 - 😄 This year Goals: Learning and learning
 
 ### Connect with me:
-[<img align="left" alt="web | Facebook" width="22px" src="https://cdn.onlinewebfonts.com/svg/img_572649.png" />][Website]
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="facebook | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
