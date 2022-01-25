@@ -66,7 +66,6 @@ Here are some ideas to get you started:
 [instagram]: https://www.instagram.com/aabiskar1/
 [linkedin]: https://www.linkedin.com/in/aabiskar/
 [facebook]: https://www.facebook.com/aabiskar1/
-[Website]: https://aabiskar.com/
 [Bina Restaurant]: https://www.binacurry.co.kr/
 [GarageInc Web]: https://www.garageinc.com.np/
 [GarageInc App]: https://play.google.com/store/apps/details?id=np.com.garageinc
