@@ -2,7 +2,7 @@
 
 ## I'm a Software Developer
 
-- 🔭 I’m currently working as a mobile app and web developer
+- 🔭 I’m currently studying MSc. Advanced Computer Science @Univeristy of York
 - 👯 I’m available for freelance work
 - 😄 This year Goals: Learning and learning
 
