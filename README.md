@@ -2,7 +2,7 @@
 
 ## I'm a Software Developer
 
-- 🔭 I’m currently studying MSc. Advanced Computer Science @Univeristy of York
+- 🔭 I’m currently working at Univeristy of York [GITHUB](https://github.com/aabishkar-uoy)
 - 👯 I’m available for freelance work
 - 😄 This year Goals: Learning and learning
 
