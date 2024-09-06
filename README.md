@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <br />
 
 ### Some of my work:
-<img align="left" alt="web" width="22px" src="https://cdn.worldvectorlogo.com/logos/google-play-store.svg" /> [GarageInc App] <br> <br>
+<img align="left" alt="web" width="22px" src="https://cdn.worldvectorlogo.com/logos/google-play-5.svg" /> [GarageInc App] <br> <br>
 <img align="left" alt="web" width="22px" src="https://cdn.onlinewebfonts.com/svg/img_572649.png" />[Bina Restaurant]  <br> <br>
 <img align="left" alt="web" width="22px" src="https://cdn.onlinewebfonts.com/svg/img_572649.png" />[GarageInc Web]
 
