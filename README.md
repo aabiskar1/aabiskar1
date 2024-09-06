@@ -42,6 +42,9 @@ Here are some ideas to get you started:
 <br />
 
 ### Languages and Tools:
+<img align="left" alt="git" width="26px" src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" />
+<img align="left" alt="git" width="26px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" />
+<img align="left" alt="git" width="26px" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" />
 <img align="left" alt="git" width="26px" src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" />
 <img align="left" alt="git" width="26px" src="https://cdn.worldvectorlogo.com/logos/java-4.svg" />
 <img align="left" alt="flutter" width="26px" src="https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png" />
