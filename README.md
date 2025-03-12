@@ -51,6 +51,4 @@ I'm a Software Developer with a passion for building scalable and innovative sol
 
 <br />
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=aabiskar1)
-
 
