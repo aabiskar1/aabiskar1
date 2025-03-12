@@ -14,32 +14,6 @@ I'm a Software Developer with a passion for building scalable and innovative sol
 [<img align="left" alt="facebook | Facebook" width="22px" src="https://cdn.worldvectorlogo.com/logos/facebook-3-2.svg" />][facebook]
 
 
-
-
-<!--
-**aabiskar1/aabiskar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=aabiskar1&show_icons=true&hide_border=true" />
- -->
-
-<br />
-
-### Some of my work:
-<img align="left" alt="web" width="22px" src="https://cdn.worldvectorlogo.com/logos/google-play-5.svg" /> [GarageInc App] <br> <br>
-<img align="left" alt="web" width="22px" src="https://cdn.worldvectorlogo.com/logos/firefox-5.svg" />[Bina Restaurant]  <br> <br>
-<img align="left" alt="web" width="22px" src="https://cdn.worldvectorlogo.com/logos/firefox-5.svg" />[GarageInc Web]
-
 <br />
 <br />
 
