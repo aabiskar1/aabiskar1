@@ -1,6 +1,8 @@
-### Hi there, Its Aabiskar 👋
+# Hi, I'm Aabishkar Aryal! 👋
 
-## I'm a Software Developer
+## About Me
+
+I'm a Software Developer with a passion for building scalable and innovative solutions. I have experience in designing, developing, and deploying applications using a variety of technologies, with a focus on AWS cloud services and modern JavaScript frameworks. I thrive on challenges and enjoy collaborating with teams to deliver high-quality code.
 
 - 🔭 I’m currently working at Univeristy of York [GITHUB](https://github.com/aabishkar-uoy)
 - 👯 I’m available for freelance work
