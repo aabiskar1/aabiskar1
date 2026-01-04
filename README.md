@@ -50,10 +50,9 @@ I am a passionate Software Developer experienced in designing, developing, and d
 
 ## 📈 Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aabiskar1&show_icons=true&locale=en&theme=tokyonight" alt="aabiskar1" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aabiskar1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aabiskar1" />
-</p>
+<div align="center">
+  <img src="https://metrics.lecoq.io/aabiskar1?template=classic&base=header,activity,community,repositories,metadata&config.timezone=Europe%2FLondon" alt="Metrics" />
+</div>
 
 ## 📫 Connect with me
 
