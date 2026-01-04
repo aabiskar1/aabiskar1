@@ -48,7 +48,7 @@ I am a passionate Software Developer experienced in designing, developing, and d
 | **Personal** | Open source contributions, side projects, and freelance work. | [**@aabiskar1**](https://github.com/aabiskar1) |
 | **Work** | Professional work at University of York. | [**@aabiskar-uoy**](https://github.com/aabiskar-uoy) |
 
-## 📈 Stats (Personal Account)
+## 📈 Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=aabiskar1&show_icons=true&locale=en&theme=tokyonight" alt="aabiskar1" />
