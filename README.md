@@ -46,7 +46,7 @@ I am a passionate Software Developer experienced in designing, developing, and d
 | Account | Description | Link |
 | :--- | :--- | :--- |
 | **Personal** | Open source contributions, side projects, and freelance work. | [**@aabiskar1**](https://github.com/aabiskar1) |
-| **Work** | Professional work at University of York. | [**@aabiskar-uoy**](https://github.com/aabiskar-uoy) |
+| **Work** | Professional work at University of York. | [**@aabishkar-uoy**](https://github.com/aabishkar-uoy) |
 
 ## 📈 Stats
 
@@ -54,7 +54,7 @@ I am a passionate Software Developer experienced in designing, developing, and d
   <h3>@aabiskar1 (Personal)</h3>
   <img src="https://raw.githubusercontent.com/aabiskar1/aabiskar1/output/github-contribution-grid-snake-dark.svg" alt="Personal Snake" />
   
-  <h3>@aabiskar-uoy (Work)</h3>
+  <h3>@aabishkar-uoy (Work)</h3>
   <img src="https://raw.githubusercontent.com/aabiskar1/aabiskar1/output/github-contribution-grid-snake-work-dark.svg" alt="Work Snake" />
 </div>
 

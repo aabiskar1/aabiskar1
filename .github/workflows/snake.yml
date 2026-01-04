@@ -25,7 +25,7 @@ jobs:
       - name: Generate Snake for Work
         uses: Platane/snk@v3
         with:
-          github_user_name: aabiskar-uoy
+          github_user_name: aabishkar-uoy
           outputs: |
             dist/github-contribution-grid-snake-work.svg
             dist/github-contribution-grid-snake-work-dark.svg?palette=github-dark
