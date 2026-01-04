@@ -1,53 +1,65 @@
 # Hi, I'm Aabishkar Aryal! 👋
 
-## About Me
+> *Full-Stack Developer & Cloud Architect specializing in scalable AWS Serverless solutions. I transform complex requirements into high-performance, robust applications using Node.js, TypeScript, and modern Cloud infrastructure.*
 
-I'm a Software Developer with a passion for building scalable and innovative solutions. I have experience in designing, developing, and deploying applications using a variety of technologies, with a focus on AWS cloud services and modern JavaScript frameworks. I thrive on challenges and enjoy collaborating with teams to deliver high-quality code.
+---
 
-- 🔭 I’m currently working at Univeristy of York [GITHUB](https://github.com/aabishkar-uoy)
-- 👯 I’m available for freelance work
-- 😄 This year Goals: Learning and learning
+## 🚀 About Me
 
-### Connect with me:
-[<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" />][linkedin]
-[<img align="left" alt="instagram | Instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-6.svg" />][instagram]
-[<img align="left" alt="facebook | Facebook" width="22px" src="https://cdn.worldvectorlogo.com/logos/facebook-3-2.svg" />][facebook]
+I am a passionate Software Developer experienced in designing, developing, and deploying scalable applications. My focus is on modern JavaScript frameworks and AWS cloud services. I thrive on solving complex problems, from modernizing legacy systems to architecting robust serverless integrations.
+
+- 🔭 **Current Role**: Software Developer at **University of York**
+- 🌍 **Location**: Leeds, United Kingdom
+- 🎓 **Education**: MSc in Computer Science, University of York
+- 💼 **Freelance**: Available for freelance work
+
+## 🛠 Tech Stack
+
+**Languages**
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+**Frontend**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+
+**Backend & Cloud**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Tools & DevOps**
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Vitest](https://img.shields.io/badge/vitest-%23646CFF.svg?style=for-the-badge&logo=vitest&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+
+## 🏗 GitHub Profiles
 
 
-<br />
-<br />
+| Account | Description | Link |
+| :--- | :--- | :--- |
+| **Personal** | Open source contributions, side projects, and freelance work. | [**@aabiskar1**](https://github.com/aabiskar1) |
+| **Work** | Professional work at University of York. | [**@aabiskar-uoy**](https://github.com/aabiskar-uoy) |
 
-### Languages and Tools:
-<img align="left" alt="git" width="26px" src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" />
-<img align="left" alt="git" width="26px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" />
-<img align="left" alt="git" width="26px" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" />
-<img align="left" alt="git" width="26px" src="https://cdn.worldvectorlogo.com/logos/aws-lambda-1.svg" />
-<img align="left" alt="git" width="26px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" />
-<img align="left" alt="git" width="26px" src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" />
-<img align="left" alt="git" width="26px" src="https://cdn.worldvectorlogo.com/logos/java-4.svg" />
-<img align="left" alt="flutter" width="26px" src="https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png" />
-<img align="left" alt="git" width="26px" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" />
-<img align="left" alt="git" width="26px" src="https://cdn.worldvectorlogo.com/logos/wordpress-icon-1.svg" />
-<img align="left" alt="git" width="26px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
-<img align="left" alt="git" width="26px" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" />
-<img align="left" alt="git" width="26px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
-<img align="left" alt="node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="sql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="mysql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+## 📈 Stats (Personal Account)
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=aabiskar1&show_icons=true&locale=en&theme=tokyonight" alt="aabiskar1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aabiskar1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="aabiskar1" />
+</p>
 
-<br />
-<br />
+## 📫 Connect with me
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aabiskar/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/aabiskar1/)
 
-[instagram]: https://www.instagram.com/aabiskar1/
-[linkedin]: https://www.linkedin.com/in/aabiskar/
-[facebook]: https://www.facebook.com/aabiskar1/
-[Bina Restaurant]: binacurry.co.kr/
-[GarageInc Web]: https://www.garageinc.com.np/
-[GarageInc App]: https://play.google.com/store/apps/details?id=np.com.garageinc
 
 <br />
 
