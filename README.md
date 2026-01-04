@@ -51,7 +51,11 @@ I am a passionate Software Developer experienced in designing, developing, and d
 ## 📈 Stats
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/aabiskar1?template=classic&base=header,activity,community,repositories,metadata&config.timezone=Europe%2FLondon" alt="Metrics" />
+  <h3>@aabiskar1 (Personal)</h3>
+  <img src="https://raw.githubusercontent.com/aabiskar1/aabiskar1/output/github-contribution-grid-snake-dark.svg" alt="Personal Snake" />
+  
+  <h3>@aabiskar-uoy (Work)</h3>
+  <img src="https://raw.githubusercontent.com/aabiskar1/aabiskar1/output/github-contribution-grid-snake-work-dark.svg" alt="Work Snake" />
 </div>
 
 ## 📫 Connect with me
