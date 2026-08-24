@@ -8,7 +8,7 @@
 
 I am a passionate Software Developer experienced in designing, developing, and deploying scalable applications. My focus is on modern JavaScript frameworks and AWS cloud services. I thrive on solving complex problems, from modernizing legacy systems to architecting robust serverless integrations.
 
-- 🔭 **Current Role**: Software Developer at **University of York**
+- 🔭 **Current Role**: Software Development Team Leader at **University of York**
 - 🌍 **Location**: Leeds, United Kingdom
 - 🎓 **Education**: MSc in Computer Science, University of York
 - 💼 **Freelance**: Available for freelance work
