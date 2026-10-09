@@ -11,7 +11,6 @@ I am a passionate Software Developer experienced in designing, developing, and d
 - 🔭 **Current Role**: Software Development Team Leader at **University of York**
 - 🌍 **Location**: Leeds, United Kingdom
 - 🎓 **Education**: MSc in Computer Science, University of York
-- 💼 **Freelance**: Available for freelance work
 
 ## 🛠 Tech Stack
 
